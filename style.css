@@ -1,0 +1,124 @@
+
+body {
+    background-color: #f7f6f2;
+   
+}
+
+h1 {
+
+margin: 0px;
+  background-image: url("https://www.thelist.com/img/gallery/the-best-and-worst-bath-bombs-you-can-find-at-lush/l-intro-1620683569.jpg");
+  background-repeat: no-repeat;
+  color: #FFFFFF;
+  background-color: white;
+  font-size: 2000%;
+  font-weight: normal;
+  letter-spacing: -0.4px;
+  font-family: "Suisse Int'l", "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
+  ;
+}
+
+h2 {
+
+ font-family: Baskerville Old Face; font-size: 100px; font-style: normal; font-variant: normal; 
+ color:#f74c25;
+ letter-spacing: -6px;
+ font-weight: 400;
+ line-height: 25px;
+ 
+}
+
+h3 {
+
+    margin: 0px;
+  color: rgb(247, 76, 37);
+  background-color: #f7f6f2;
+  font-size: 130%;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  word-spacing: 4px;
+  font-family: "Suisse Int'l", "Helvetica Neue", Helvetica, sans-serif;
+ 
+}
+
+
+ul {
+  list-style-type: none;
+  font-family: "Suisse Int'l", "Helvetica Neue", Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f7f6f2;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color:rgb(247, 76, 37);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: peachpuff;
+}
+
+
+footer {
+  display: block;
+}
+
+
+#elle {
+
+  font-size: 700%;
+  font-family: "Suisse Int'l", "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  word-spacing: 4px;
+  margin: 0px;
+
+}
+
+#ei {
+  font-family: "Suisse Int'l", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 100%;
+  font-weight: 200;
+  letter-spacing: -0.4px;
+  word-spacing: 4px;
+  margin: 0px;
+
+}
+
+#hi {
+
+  font-family: Baskerville Old Face; font-size: 50px; font-style: normal; font-variant: normal; 
+  color:#f7f6f2;
+  letter-spacing:2px;
+  font-weight: 400;
+  line-height: 25px;
+}
+
+#email {
+
+  font-size: 150%;
+  background-color: lightsalmon;
+}
+
+h4 {
+
+  margin: 0px;
+  color: rgb(247, 76, 37);
+  background-color: #f7f6f2;
+  font-size: 100%;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  word-spacing: 4px;
+  font-family: "Suisse Int'l", "Helvetica Neue", Helvetica, sans-serif;
+}
